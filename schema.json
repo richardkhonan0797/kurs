@@ -1,0 +1,488 @@
+{
+    "fields": [
+      {
+        "name": "_id",
+        "path": "_id",
+        "count": 16,
+        "types": [
+          {
+            "name": "ObjectID",
+            "bsonType": "ObjectID",
+            "path": "_id",
+            "count": 16,
+            "values": [
+              "61610e88067c0f43140ad756",
+              "61610e88067c0f43140ad757",
+              "61610e88067c0f43140ad758",
+              "61610e88067c0f43140ad759",
+              "61610e88067c0f43140ad75a",
+              "61610e88067c0f43140ad75b",
+              "61610e88067c0f43140ad75c",
+              "61610e88067c0f43140ad75d",
+              "61610e88067c0f43140ad75e",
+              "61610e88067c0f43140ad75f",
+              "61610e88067c0f43140ad760",
+              "61610e88067c0f43140ad761",
+              "61610e88067c0f43140ad762",
+              "61610e88067c0f43140ad763",
+              "61610e88067c0f43140ad764",
+              "61610e88067c0f43140ad765"
+            ],
+            "total_count": 0,
+            "probability": 1,
+            "unique": 16,
+            "has_duplicates": false
+          }
+        ],
+        "total_count": 16,
+        "type": "ObjectID",
+        "has_duplicates": false,
+        "probability": 1
+      },
+      {
+        "name": "__v",
+        "path": "__v",
+        "count": 16,
+        "types": [
+          {
+            "name": "Int32",
+            "bsonType": "Int32",
+            "path": "__v",
+            "count": 16,
+            "values": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total_count": 0,
+            "probability": 1,
+            "unique": 1,
+            "has_duplicates": true
+          }
+        ],
+        "total_count": 16,
+        "type": "Int32",
+        "has_duplicates": true,
+        "probability": 1
+      },
+      {
+        "name": "date",
+        "path": "date",
+        "count": 16,
+        "types": [
+          {
+            "name": "Date",
+            "bsonType": "Date",
+            "path": "date",
+            "count": 16,
+            "values": [
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z",
+              "2021-10-09T00:00:00.000Z"
+            ],
+            "total_count": 0,
+            "probability": 1,
+            "unique": 1,
+            "has_duplicates": true
+          }
+        ],
+        "total_count": 16,
+        "type": "Date",
+        "has_duplicates": true,
+        "probability": 1
+      },
+      {
+        "name": "erate",
+        "path": "erate",
+        "count": 16,
+        "types": [
+          {
+            "name": "Document",
+            "bsonType": "Document",
+            "path": "erate",
+            "count": 16,
+            "fields": [
+              {
+                "name": "beli",
+                "path": "erate.beli",
+                "count": 16,
+                "types": [
+                  {
+                    "name": "Double",
+                    "bsonType": "Double",
+                    "path": "erate.beli",
+                    "count": 16,
+                    "values": [
+                      14.233,
+                      10.476,
+                      16.437,
+                      10.377,
+                      2.226,
+                      1.636,
+                      11.342,
+                      15.304,
+                      9.838,
+                      19.339,
+                      1.831,
+                      127.12,
+                      3.797,
+                      2.209,
+                      3.411,
+                      423.82
+                    ],
+                    "total_count": 0,
+                    "probability": 1,
+                    "unique": 16,
+                    "has_duplicates": false
+                  }
+                ],
+                "total_count": 16,
+                "type": "Double",
+                "has_duplicates": false,
+                "probability": 1
+              },
+              {
+                "name": "jual",
+                "path": "erate.jual",
+                "count": 16,
+                "types": [
+                  {
+                    "name": "Double",
+                    "bsonType": "Double",
+                    "path": "erate.jual",
+                    "count": 16,
+                    "values": [
+                      14.218,
+                      10.462,
+                      16.413,
+                      10.359,
+                      2.187,
+                      1.596,
+                      11.327,
+                      15.284,
+                      9.821,
+                      19.322,
+                      1.823,
+                      126.95,
+                      3.789,
+                      2.199,
+                      3.394,
+                      416.22
+                    ],
+                    "total_count": 0,
+                    "probability": 1,
+                    "unique": 16,
+                    "has_duplicates": false
+                  }
+                ],
+                "total_count": 16,
+                "type": "Double",
+                "has_duplicates": false,
+                "probability": 1
+              }
+            ],
+            "total_count": 0,
+            "probability": 1
+          }
+        ],
+        "total_count": 16,
+        "type": "Document",
+        "has_duplicates": false,
+        "probability": 1
+      },
+      {
+        "name": "notes",
+        "path": "notes",
+        "count": 16,
+        "types": [
+          {
+            "name": "Document",
+            "bsonType": "Document",
+            "path": "notes",
+            "count": 16,
+            "fields": [
+              {
+                "name": "beli",
+                "path": "notes.beli",
+                "count": 16,
+                "types": [
+                  {
+                    "name": "Double",
+                    "bsonType": "Double",
+                    "path": "notes.beli",
+                    "count": 14,
+                    "values": [
+                      14.349,
+                      10.569,
+                      16.622,
+                      10.541,
+                      2.268,
+                      1.674,
+                      11.473,
+                      15.496,
+                      10.001,
+                      19.576,
+                      1.858,
+                      130.44,
+                      3.875,
+                      2.293
+                    ],
+                    "total_count": 0,
+                    "probability": 0.875,
+                    "unique": 14,
+                    "has_duplicates": false
+                  },
+                  {
+                    "name": "Int32",
+                    "bsonType": "Int32",
+                    "path": "notes.beli",
+                    "count": 2,
+                    "values": [
+                      0,
+                      429
+                    ],
+                    "total_count": 0,
+                    "probability": 0.125,
+                    "unique": 2,
+                    "has_duplicates": false
+                  }
+                ],
+                "total_count": 16,
+                "type": [
+                  "Double",
+                  "Int32"
+                ],
+                "has_duplicates": false,
+                "probability": 1
+              },
+              {
+                "name": "jual",
+                "path": "notes.jual",
+                "count": 16,
+                "types": [
+                  {
+                    "name": "Double",
+                    "bsonType": "Double",
+                    "path": "notes.jual",
+                    "count": 14,
+                    "values": [
+                      14.049,
+                      10.34,
+                      16.198,
+                      10.256,
+                      2.136,
+                      1.554,
+                      11.158,
+                      15.087,
+                      9.723,
+                      19.098,
+                      1.789,
+                      123.9,
+                      3.646,
+                      2.135
+                    ],
+                    "total_count": 0,
+                    "probability": 0.875,
+                    "unique": 14,
+                    "has_duplicates": false
+                  },
+                  {
+                    "name": "Int32",
+                    "bsonType": "Int32",
+                    "path": "notes.jual",
+                    "count": 2,
+                    "values": [
+                      0,
+                      350
+                    ],
+                    "total_count": 0,
+                    "probability": 0.125,
+                    "unique": 2,
+                    "has_duplicates": false
+                  }
+                ],
+                "total_count": 16,
+                "type": [
+                  "Double",
+                  "Int32"
+                ],
+                "has_duplicates": false,
+                "probability": 1
+              }
+            ],
+            "total_count": 0,
+            "probability": 1
+          }
+        ],
+        "total_count": 16,
+        "type": "Document",
+        "has_duplicates": false,
+        "probability": 1
+      },
+      {
+        "name": "symbol",
+        "path": "symbol",
+        "count": 16,
+        "types": [
+          {
+            "name": "String",
+            "bsonType": "String",
+            "path": "symbol",
+            "count": 16,
+            "values": [
+              "USD",
+              "SGD",
+              "EUR",
+              "AUD",
+              "DKK",
+              "SEK",
+              "CAD",
+              "CHF",
+              "NZD",
+              "GBP",
+              "HKD",
+              "JPY",
+              "SAR",
+              "CNH",
+              "MYR",
+              "THB"
+            ],
+            "total_count": 0,
+            "probability": 1,
+            "unique": 16,
+            "has_duplicates": false
+          }
+        ],
+        "total_count": 16,
+        "type": "String",
+        "has_duplicates": false,
+        "probability": 1
+      },
+      {
+        "name": "tt",
+        "path": "tt",
+        "count": 16,
+        "types": [
+          {
+            "name": "Document",
+            "bsonType": "Document",
+            "path": "tt",
+            "count": 16,
+            "fields": [
+              {
+                "name": "beli",
+                "path": "tt.beli",
+                "count": 16,
+                "types": [
+                  {
+                    "name": "Double",
+                    "bsonType": "Double",
+                    "path": "tt.beli",
+                    "count": 16,
+                    "values": [
+                      14.376,
+                      10.584,
+                      16.629,
+                      10.508,
+                      2.247,
+                      1.647,
+                      11.473,
+                      15.489,
+                      9.975,
+                      19.568,
+                      1.857,
+                      129.15,
+                      3.846,
+                      2.289,
+                      3.45,
+                      424.6
+                    ],
+                    "total_count": 0,
+                    "probability": 1,
+                    "unique": 16,
+                    "has_duplicates": false
+                  }
+                ],
+                "total_count": 16,
+                "type": "Double",
+                "has_duplicates": false,
+                "probability": 1
+              },
+              {
+                "name": "jual",
+                "path": "tt.jual",
+                "count": 16,
+                "types": [
+                  {
+                    "name": "Double",
+                    "bsonType": "Double",
+                    "path": "tt.jual",
+                    "count": 16,
+                    "values": [
+                      14.076,
+                      10.355,
+                      16.24,
+                      10.232,
+                      2.178,
+                      1.591,
+                      11.187,
+                      15.117,
+                      9.683,
+                      19.102,
+                      1.797,
+                      125.03,
+                      3.741,
+                      2.121,
+                      3.352,
+                      415.6
+                    ],
+                    "total_count": 0,
+                    "probability": 1,
+                    "unique": 16,
+                    "has_duplicates": false
+                  }
+                ],
+                "total_count": 16,
+                "type": "Double",
+                "has_duplicates": false,
+                "probability": 1
+              }
+            ],
+            "total_count": 0,
+            "probability": 1
+          }
+        ],
+        "total_count": 16,
+        "type": "Document",
+        "has_duplicates": false,
+        "probability": 1
+      }
+    ],
+    "count": 16
+  }
